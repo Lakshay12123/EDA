@@ -1,2 +1,4 @@
 # EDA
-creating my first Repo i would be uploading my EDA work here 
+performing EDA on multiple data sets and preparing data for futher machine learning process
+
+
